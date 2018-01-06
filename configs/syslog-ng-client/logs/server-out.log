@@ -1,0 +1,206 @@
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:10 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:10 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:10 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:10 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:10 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:10 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:10 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:10 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:18 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:18 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:19 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:19 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:19 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:19 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:19 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:19 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:30 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:30 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:30 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:30 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:30 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:30 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:31 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:31 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:39 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:39 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:40 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:40 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:40 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:40 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:41 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:41 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:50 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:50 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:50 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:50 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:50 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:50 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:51 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:51 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:59 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:59 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 18:59 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 18:59 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:00 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:00 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:01 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:01 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:11 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:11 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:11 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:11 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:11 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:11 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:12 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:12 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:18 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:18 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:18 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:18 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:18 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:18 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:22 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:22 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:30 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:30 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:30 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:30 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:31 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:31 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:32 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:32 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:37 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:37 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:37 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:37 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:38 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:38 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:39 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:39 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:46 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:46 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:46 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:46 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:47 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:47 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:48 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:48 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:57 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:57 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:58 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:58 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 19:58 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 19:58 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:00 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:00 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:09 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:09 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:10 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:10 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:11 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:11 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:12 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:12 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:17 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:17 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:17 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:17 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:19 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:19 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:20 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:20 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:25 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:25 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:27 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:27 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:29 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:29 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:29 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:29 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:34 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:34 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:36 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:36 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:37 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:37 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:37 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:37 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:43 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:43 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:44 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:44 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:46 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:46 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:47 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:47 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:51 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:51 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:53 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:53 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:55 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:55 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 20:57 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 20:57 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:02 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:02 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:03 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:03 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:03 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:03 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:05 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:05 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:12 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:12 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:12 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:12 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:13 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:13 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:15 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:15 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:20 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:20 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:20 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:20 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:21 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:21 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:24 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:24 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:29 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:29 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:29 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:29 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:29 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:29 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:33 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:33 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:37 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:37 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:39 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:39 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:39 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:39 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:45 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:45 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:47 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:47 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:48 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:48 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:49 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:49 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:55 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:55 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:58 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:58 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 21:59 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 21:59 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 22:00 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 22:00 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 22:03 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 22:03 +05:00","type":"out","process_id":0,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 22:07 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 22:07 +05:00","type":"out","process_id":1,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 22:08 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 22:08 +05:00","type":"out","process_id":3,"app_name":"server"}
+{"message":"[HPM] Proxy created: [ '/backend/', '/msearcher_ajax.php', '/wp-content/' ]  ->  https://www.etagi.dev\n","timestamp":"2018-01-06 22:09 +05:00","type":"out","process_id":2,"app_name":"server"}
+{"message":"The server is running at http://localhost:3000/\n","timestamp":"2018-01-06 22:09 +05:00","type":"out","process_id":2,"app_name":"server"}

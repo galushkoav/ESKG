@@ -1,0 +1,122 @@
+version: '3.3'
+
+services:
+
+  nginx.local:
+    image: nginx:latest
+    container_name: nginx.local
+    hostname: nginx.local
+    restart: always
+    volumes:
+      - ./configs/nginx/:/etc/nginx/
+    ports:
+      - "80:80"
+      - "443:443"
+    networks:
+      - local-network
+    tty: true
+    privileged: true
+    restart: always
+    environment:
+       - "TZ=Asia/Yekaterinburg" 
+      
+
+  loger.local:
+    build: build/loger_ubuntu/
+    container_name: loger.local
+    hostname: loger.local
+    volumes:
+      - ./configs/syslog-ng-server/:/usr/local/etc/
+      - ./configs/td-agent/:/etc/td-agent/
+    ports:
+      - "514:514"
+      - "514:514/udp" 
+      - "25300-25400:25300-25400"
+      - "25300-25400:25300-25400/udp"
+    networks:
+      - local-network
+    tty: true
+    privileged: true
+    restart: always
+    entrypoint: "/bin/bash /run.sh"
+    environment:
+       - "TZ=Asia/Yekaterinburg" 
+
+  elasticsearch.local:
+    build: build/elasticsearch/
+    container_name: elasticsearch.local
+    hostname: elasticsearch.local
+    volumes:
+      - ./configs/elasticsearch:/etc/elasticsearch/
+      - ./data/elasticsearch/:/elasticdata/
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    networks:
+      - local-network
+    tty: true
+    privileged: true
+    restart: always
+    entrypoint: "/bin/bash /run.sh"
+    environment:
+       - "TZ=Asia/Yekaterinburg" 
+
+
+  kibana.local:
+    build: build/kibana5.6.5/
+    container_name: kibana.local
+    hostname: kibana.local
+    volumes:
+      - ./configs/kibana5.6.5/:/etc/kibana/
+    networks:
+      - local-network
+    ports:
+      - "5601:5601"
+    tty: true
+    privileged: true
+    restart: always
+    environment:
+       - "TZ=Asia/Yekaterinburg"
+       - "ELASTICSEARCH_URL=http://192.168.88.10:9200"
+
+
+  grafana.local:
+    image: grafana/grafana:4.6.3
+    container_name: grafana.local
+    hostname: grafana.local
+    volumes:
+      - ./configs/grafana/:/etc/grafana/
+      - ./data/grafana/:/var/lib/grafana/
+      - ./data/grafana/:/var/log/grafana/
+    ports:
+      - "13000:3000"
+    networks:
+      - local-network
+    tty: true
+    privileged: true
+    restart: always
+    environment:
+      - "TZ=Asia/Yekaterinburg" 
+      - "GF_INSTALL_PLUGINS=grafana-clock-panel,grafana-simple-json-datasource,vonage-status-panel,grafana-piechart-panel,grafana-worldmap-panel"
+  
+  elastalert.local:
+    build: build/elastalert
+    container_name: elastalert.local
+    hostname: elastalert.local
+    volumes:
+      - ./configs/elastalert/:/etc/elastalert/
+    ports:
+      - "3030:3030" 
+    networks:
+      - local-network
+    tty: true
+    privileged: true
+    restart: always
+    entrypoint: "/bin/bash"
+    environment:
+       - "TZ=Asia/Yekaterinburg" 
+
+networks:
+  local-network:
+      driver: bridge
+

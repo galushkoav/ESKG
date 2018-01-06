@@ -1,0 +1,8 @@
+
+cluster.name: my-application
+
+path.data: /elasticdata
+
+network.host: 0.0.0.0
+
+http.port: 9200

@@ -1,0 +1,43 @@
+
+name: status_200
+
+# Type of alert.
+
+type: frequency
+
+# Index to search, wildcard supported
+index: nginx-access-geo-*
+
+# Alert when this many documents matching the query occur within a timeframe
+num_events: 20
+
+
+# num_events must occur within this amount of time to trigger an alert
+timeframe:
+  minutes: 2
+
+# (Required)
+# A list of Elasticsearch filters used for find events
+# These filters are joined with AND and nested in a filtered query
+# For more info: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl.html
+filter:
+#- term:
+#    status: "200"
+- query:
+    query_string:
+      query: "nginx.status: 200"
+
+
+#realert which is the minimum time between two alerts for the same rule. 
+realert:
+  minutes: 0
+#You can also prevent duplicates based on a certain field by using query_key.
+#realert:
+  #hours: 8
+#query_key: user
+
+# The alert is use when a match is found
+alert:
+- "telegram"
+
+telegram_room_id: "252749597" 

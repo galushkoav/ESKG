@@ -1,0 +1,102 @@
+#!/bin/sh
+
+### BEGIN INIT INFO
+# Provides:		prometheus
+# Required-Start:	$local_fs $remote_fs
+# Required-Stop:	$local_fs $remote_fs
+# Should-Start:
+# Should-Stop:
+# Default-Start:	S
+# Default-Stop:
+# Short-Description:	Run Prometheus server
+### END INIT INFO
+
+. /lib/lsb/init-functions
+
+
+PATH="/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/bin"
+NAME="prometheus"
+DESC="Prometheus time series database"
+USER=root
+DAEMON=/usr/local/bin/$NAME
+DAEMON_OPTS=--config.file="/etc/prometheus/prometheus.yml" --storage.tsdb.path="/prometheusdata/" --storage.tsdb.retention=30d --alertmanager.notification-queue-capacity=200 --alertmanager.timeout=10s  --log.level=info
+PIDFILE=/var/run/$NAME.pid
+LOGFILE=/var/log/prometheus/$NAME.log
+if [ -r "/etc/default/${NAME}" ]
+then
+	. "/etc/default/${NAME}"
+fi
+
+
+ARGS=""
+[ -r /etc/default/$NAME ] && . /etc/default/$NAME
+
+set -e
+
+
+do_start_prepare()
+{
+    mkdir -p `dirname $PIDFILE` || true
+    mkdir -p `dirname $LOGFILE` || true
+    chown -R $USER: `dirname $LOGFILE`
+    chown -R $USER: `dirname $PIDFILE`
+}
+
+
+do_start_cmd()
+{
+    do_start_prepare
+    echo -n "Starting daemon: "$NAME
+	start-stop-daemon --chuid $USER -C --background --start --quiet --pidfile $PIDFILE --make-pidfile --exec $DAEMON  --config.file="/etc/prometheus/prometheus.yml" --storage.tsdb.path="/prometheusdata/" --storage.tsdb.retention=30d --alertmanager.notification-queue-capacity=200 --alertmanager.timeout=10s  --log.level=info -- $ARGS >> $LOGFILE 2>&1
+	echo "."
+}
+
+
+do_stop_cmd()
+{
+    echo -n "Stopping daemon: "$NAME
+	start-stop-daemon --stop --quiet --oknodo --pidfile $PIDFILE
+	rm $PIDFILE
+    echo "."
+}
+
+
+status() {
+        printf "%-50s" "Checking $NAME..."
+    if [ -f $PIDFILE ]; then
+        PID=$(cat $PIDFILE)
+            if [ -z "$(ps axf | grep ${PID} | grep -v grep)" ]; then
+                printf "%s\n" "The process appears to be dead but pidfile still exists"
+            else    
+                echo "Running, the PID is $PID"
+            fi
+    else
+        printf "%s\n" "Service not running"
+    fi
+}
+
+
+
+
+
+case "${1}" in
+	start)
+		do_start_cmd
+		;;
+	stop)
+		do_stop_cmd
+		;;
+	restart|force-reload)
+		stop
+		start
+		;;
+    status)
+      status
+      ;;
+	*)
+		echo "Usage: ${0} {start|stop|restart|status}" >&2
+		exit 1
+		;;
+esac
+
+exit 0
